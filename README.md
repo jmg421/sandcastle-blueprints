@@ -8,7 +8,7 @@ SVG blueprint designs for competitive/recreational sandcastle building. Covers c
 |------|-------------|
 | Shovel | For scooping and loading sand into the cylinder |
 | Water Bucket | 5-gallon bucket for hauling water from the source |
-| Cylinder | Bottomless 5-gallon bucket used as a form for packing sand/water mixture |
+| Cylinder | Bottomless 5-gallon bucket used inverted as a form. Base (top of block): ~10.5" / 26.7cm. Top opening (base of block): ~12" / 30.5cm. Taper helps blocks hold shape. |
 
 ## Job Roles (rotating)
 
